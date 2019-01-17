@@ -2,7 +2,7 @@
 package main
 
 import(
-	"github.com/lijiaocn/GoPkgs/version"
+	"github.com/lijiaocn/golib/version"
 )
 
 func main() {
